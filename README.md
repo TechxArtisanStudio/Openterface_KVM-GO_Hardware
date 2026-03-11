@@ -45,6 +45,10 @@ The host application allows users to view the captured video stream and control 
 
 No software installation is required on the target device. Simply connect a device with a video output and a USB port for keyboard and mouse control.
 
+## PCB Design
+<img width="1280" height="720" alt="KVM-Go拼图" src="https://github.com/user-attachments/assets/2f28522a-26e7-453c-82a9-48704d6ae991" />
+
+
 ## license
 
 - Hardware is released under CERN Open Hardware Licence Version 2 - Strongly Reciprocal  
@@ -55,4 +59,5 @@ No software installation is required on the target device. Simply connect a devi
 
 Interested in contributing to the project? We welcome community involvement and contributions. For more information about getting involved, please visit our community pages or contact us directly.
 
-![KVM-GO-bundle-parts](https://github.com/user-attachments/assets/e4feed7c-e512-4a9d-b0fb-9f738aa63355)
+![KVM-GO-bundle-hook-bag](https://github.com/user-attachments/assets/56e14142-7e6a-4605-8d36-6a86e1653ad5)
+
