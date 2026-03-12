@@ -46,8 +46,7 @@ The host application allows users to view the captured video stream and control 
 No software installation is required on the target device. Simply connect a device with a video output and a USB port for keyboard and mouse control.
 
 ## PCB Design
-<img width="1280" height="720" alt="KVM-Go拼图" src="https://github.com/user-attachments/assets/2f28522a-26e7-453c-82a9-48704d6ae991" />
-
+<img width="1280" height="724" alt="_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=7964427320763733275 skey=@crypt_1f07134c_f258b5d86cb3b41255d6e1a63a1030d6 mmweb_appid=wx_webfilehelper" src="https://github.com/user-attachments/assets/3790e43f-c368-4aa6-bd8f-f4cbe4f0d73c" />
 
 ## license
 
