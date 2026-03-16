@@ -27,6 +27,7 @@ The Openterface KVM-GO PCB board comes with a variety of features designed to pr
 - High Compatibility: Supports a wide range of devices and operating systems.  
 - Easy Setup: Plug-and-play functionality with minimal configuration required.  
 - [Community Support](https://openterface.com/about/community/): Backed by an active open-source community.
+  ![KVM-GO series](docs/kvm-go-caps-3_png_gallery-lg.jpg)
 
 ## Software
 
