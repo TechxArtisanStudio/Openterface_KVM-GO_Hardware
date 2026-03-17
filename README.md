@@ -35,12 +35,12 @@ To use the KVM-GO device, the host device must install an Openterface host appli
 
 Supported platforms include:
 
-- Windows  
-- macOS  
-- Linux  
-- Android  
+- [Windows](https://github.com/TechxArtisanStudio/Openterface_QT)
+- [Mac](https://github.com/TechxArtisanStudio/Openterface_MacOS)
+- [Linux](https://github.com/TechxArtisanStudio/Openterface_QT)  
+- [Android](https://github.com/TechxArtisanStudio/Openterface_Android)
 - iPadOS  
-- Web browser applications  
+- [Web browser applications](https://openterface-viewer.pages.dev/)  
 
 The host application allows users to view the captured video stream and control the target device using keyboard and mouse input.
 
