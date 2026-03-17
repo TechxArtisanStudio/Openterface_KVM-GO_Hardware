@@ -29,6 +29,10 @@ The Openterface KVM-GO PCB board comes with a variety of features designed to pr
 - [Community Support](https://openterface.com/about/community/): Backed by an active open-source community.
   ![KVM-GO series](docs/kvm-go-caps-3_png_gallery-lg.jpg)
 
+## Firmware
+
+KVM-GO works with [Openterface_KM](https://github.com/TechxArtisanStudio/Openterface_KM), the keyboard and mouse emulation firmware used for target-side HID control in the Openterface KVM ecosystem.
+
 ## Software
 
 To use the KVM-GO device, the host device must install an Openterface host application.
